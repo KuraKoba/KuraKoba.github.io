@@ -63,3 +63,7 @@ body {
 .page-box a:hover {
   color: #fff;
 }
+
+.page-box a.active {
+  color: #fff;
+}
