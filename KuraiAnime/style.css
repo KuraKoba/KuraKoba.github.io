@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: White;
+  height: 100vh;
+  text-align: center;
+}
+ img {
+   height: 150px;
+ }
