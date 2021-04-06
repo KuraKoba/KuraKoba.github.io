@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  color: White;
+  text-align: center;
+  margin-top: 100px;
+}
+
+iframe {
+  background:transparent url(flame/img/flame.gif) center no-repeat;
+  }
+
+  .precarga {
+    background:transparent url(flame/img/flame.gif) center no-repeat;
+ }
