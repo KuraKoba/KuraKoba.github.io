@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="Style.css">
+    <link rel="icon" href="JigokuTsushin.ico" type="image/x-icon">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <title>Jigoku Tsūshin</title>
+    <script>
+window.onload = function() {
+var context = new AudioContext();
+}
+</script>
+  </head>
+  <body>
+
+    <script>
+    $(function() {
+    setTimeout(function() { $("#flame").fadeOut(2500); }, 4000)
+
+    })
+      </script>
+    <div id="flame">
+      <iframe src="flame.html" style="position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;">
+    Your browser doesn't support iframes
+  </iframe>
+  <audio src="flame/audio/flame.mp3" autoplay="autoplay" controls="controls">
+
+  </audio>
+</div>
+<div class="container">
+  <h2> あ な た の 怨 み 、 晴 ら し ま す 。</h2>
+  <audio id="sound1" src="audio/Sōshin.mp3" preload="auto"></audio>
+  <input id="name" placeholder="">
+  <br>
+  <br>
+  <button type="submit" onclick="javascript:delay('404 Not Found.html'); document.getElementById('sound1').play();">送信</button>
+  <script>
+function delay (URL) {
+ setTimeout( function() { window.location = URL }, 1600 );
+}
+</script>
+</div>
+  </body>
+</html>
