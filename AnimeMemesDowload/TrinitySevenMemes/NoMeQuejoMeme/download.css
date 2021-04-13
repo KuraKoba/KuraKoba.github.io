@@ -27,6 +27,17 @@ h2 {
    text-decoration: none;
  }
 
+.container a.return {
+  text-decoration: none;
+  color: darkgray;
+  position: absolute;
+  margin-top: 45%;
+}
+
+.container a.return:hover {
+  color: #fff;
+}
+
  .container a.active {
    color: #fff;
    position: absolute;
