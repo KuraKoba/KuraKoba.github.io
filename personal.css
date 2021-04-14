@@ -1,9 +1,14 @@
 body {
   color: Darkblue;
-  background: linear-gradient(rgba(0, 0, 0, .50) 0%, rgba(0,0,0,.50) 100%), url(KuraKoba.github.io/AnimeMemesDowload/img/bg.jpg) no-repeat center top;
+  background: linear-gradient(rgba(0, 0, 0, .50) 0%, rgba(0,0,0,.50) 100%), url(https://KuraKoba.github.io/AnimeMemesDowload/img/bg.jpg) no-repeat center top;
   background-size: cover;
   font-family: sans-serif;
-  height: 100%;
+  width: 100vh;
+  height: 100vh;
 }
 
-
+.M7zXZd {
+  color: Darkblue;
+  backgroun: transparent;
+  outline: none;
+}
