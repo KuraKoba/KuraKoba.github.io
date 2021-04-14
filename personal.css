@@ -5,3 +5,9 @@ body {
   font-family: sans-serif;
   height: 100%;
 }
+
+div {
+  color: Darkblue;
+  background: transparent;
+  outline: none;
+}
