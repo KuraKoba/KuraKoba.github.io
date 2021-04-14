@@ -1,12 +1,13 @@
 body {
-  color: black;
-  background: linear-gradient(rgba(0, 0, 0, .50) 0%, rgba(0,0,0,.50) 100%), url(KuraKoba.github.io/AnimeMemesDowload/TrinitySevenMemes/img/bg.jpg) no-repeat center top;
+  color: Darkblue;
+  background: linear-gradient(rgba(0, 0, 0, .50) 0%, rgba(0,0,0,.50) 100%), url(KuraKoba.github.io/AnimeMemesDowload/img/bg.jpg) no-repeat center top;
   background-size: cover;
   font-family: sans-serif;
-  height: 100%;
+  width: 100vh;
+  height: 100vh;
 }
 
-div {
+divfs {
   color: Darkblue;
   background: transparent;
   outline: none;
