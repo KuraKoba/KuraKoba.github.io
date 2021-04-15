@@ -27,7 +27,19 @@ section {
   outline: none;
 }
 
-div[jsname] {
+div[jsname]::before {
+  color: Darkblue;
+  background: transparent;
+  outline: none;
+}
+
+div[jsmodel]::before {
+  color: Darkblue;
+  background: transparent;
+  outline: none;
+}
+
+div[jscontroller]::before {
   color: Darkblue;
   background: transparent;
   outline: none;
