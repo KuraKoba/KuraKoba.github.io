@@ -11,6 +11,12 @@ nav {
   background: black;
 }
 
+span {
+  color: Darkblue;
+  background: transparent;
+  outline: none;
+}
+
 section {
   color: Darkblue;
   background: transparent;
