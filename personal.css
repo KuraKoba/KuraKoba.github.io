@@ -44,3 +44,9 @@ main {
   background: transparent;
   outline: none;
 }
+
+div[jsname="rymPhb"] {
+  color: Darkblue;
+  background: transparent;
+  outline: none;
+}
