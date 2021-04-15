@@ -6,6 +6,10 @@ body {
   height: 100vh;
 }
 
+h2 {
+  color: Darkblue;
+}
+
 nav {
   color: #fff;
   background: black;
@@ -18,6 +22,12 @@ span {
 }
 
 section {
+  color: Darkblue;
+  background: transparent;
+  outline: none;
+}
+
+div[jsname] {
   color: Darkblue;
   background: transparent;
   outline: none;
