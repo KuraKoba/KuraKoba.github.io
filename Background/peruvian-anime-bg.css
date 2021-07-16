@@ -1,0 +1,52 @@
+body {
+  color: Darkblue;
+  background: linear-gradient(rgba(0, 0, 0, .50) 0%, rgba(0,0,0,.50) 100%), url(https://cdn.discordapp.com/attachments/857415642294648833/865382201822806026/b11da54741555cb102d83140ef9d54bbe99b7ba7.png) no-repeat center top;
+  background-size: cover;
+  font-family: sans-serif;
+  height: 100vh;
+}
+
+h2 {
+  color: Darkblue;
+}
+
+nav {
+  color: #fff;
+  background: black;
+}
+
+span {
+  color: Darkblue;
+  background: transparent;
+  outline: none;
+}
+
+section {
+  color: Darkblue;
+  background: transparent;
+  outline: none;
+}
+
+div {
+  color: Darkblue;
+  background: transparent;
+  outline: none;
+}
+
+style {
+  color: Darkblue;
+  background: transparent;
+  outline: none;
+}
+
+main {
+  color: Darkblue;
+  background: transparent;
+  outline: none;
+}
+
+div[jsname="rymPhb"] {
+  color: Darkblue;
+  background: transparent;
+  outline: none;
+}
